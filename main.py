@@ -1,5 +1,4 @@
 import pyautogui #biblioteca para automação
-
 import time
 import pandas #gerenciador de banco
 
